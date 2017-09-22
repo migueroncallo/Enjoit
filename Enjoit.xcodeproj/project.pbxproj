@@ -25,6 +25,7 @@
 		DD86ADBE1F66FA250037B7D5 /* Dishes.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD86ADBD1F66FA250037B7D5 /* Dishes.swift */; };
 		DD86ADC01F66FAB40037B7D5 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD86ADBF1F66FAB40037B7D5 /* Restaurant.swift */; };
 		DD86ADC21F66FB580037B7D5 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD86ADC11F66FB580037B7D5 /* Order.swift */; };
+		DDB9433B1F7571330085B172 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB9433A1F7571330085B172 /* RegisterViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		DD86ADBD1F66FA250037B7D5 /* Dishes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dishes.swift; sourceTree = "<group>"; };
 		DD86ADBF1F66FAB40037B7D5 /* Restaurant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 		DD86ADC11F66FB580037B7D5 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		DDB9433A1F7571330085B172 /* RegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 				DD2717B21F5E2BA1001F38ED /* ViewController.swift */,
 				DD2861091F74CB93006D9FCC /* LogInViewController.swift */,
 				DD28610B1F74D428006D9FCC /* RestaurantFeedViewController.swift */,
+				DDB9433A1F7571330085B172 /* RegisterViewController.swift */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -313,6 +316,7 @@
 				DD2861071F74C858006D9FCC /* RestaurantApi.swift in Sources */,
 				DD86ADBE1F66FA250037B7D5 /* Dishes.swift in Sources */,
 				DD2717CB1F5E39B9001F38ED /* UserAPI.swift in Sources */,
+				DDB9433B1F7571330085B172 /* RegisterViewController.swift in Sources */,
 				DD2717B11F5E2BA1001F38ED /* AppDelegate.swift in Sources */,
 				DD86ADBC1F66F9B00037B7D5 /* Category.swift in Sources */,
 				DD86ADC01F66FAB40037B7D5 /* Restaurant.swift in Sources */,

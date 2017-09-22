@@ -22,5 +22,13 @@ class ViewController: UIViewController {
         
         self.present(logInVc, animated: true, completion: nil)
     }
+    
+    @IBAction func presentRegistration(_ sender: UIButton) {
+        
+        let registerVC = self.storyboard?.instantiateViewController(withIdentifier: "RegisterVC") as! RegisterViewController
+        
+        self.present(registerVC, animated: true, completion: nil)
+    }
+    
 }
 
